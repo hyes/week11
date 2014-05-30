@@ -1,0 +1,9 @@
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11_lab4\bin\Debug\week11_lab4.exe
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11_lab4\bin\Debug\week11_lab4.pdb
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11_lab4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11_lab4\obj\x86\Debug\week11_lab4.Properties.Resources.resources
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11_lab4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11_lab4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11_lab4\obj\x86\Debug\week11_lab4.exe
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11_lab4\obj\x86\Debug\week11_lab4.pdb
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11_lab4\obj\x86\Debug\week11_lab4.Form1.resources

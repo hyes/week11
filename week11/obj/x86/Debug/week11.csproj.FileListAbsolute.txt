@@ -1,0 +1,10 @@
+C:\Users\hyes\AppData\Local\Temporary Projects\week11\bin\Debug\week11.exe
+C:\Users\hyes\AppData\Local\Temporary Projects\week11\bin\Debug\week11.pdb
+C:\Users\hyes\AppData\Local\Temporary Projects\week11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hyes\AppData\Local\Temporary Projects\week11\obj\x86\Debug\week11.exe
+C:\Users\hyes\AppData\Local\Temporary Projects\week11\obj\x86\Debug\week11.pdb
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11\obj\x86\Debug\week11.exe
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11\obj\x86\Debug\week11.pdb
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11\bin\Debug\week11.exe
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\week11\bin\Debug\week11.pdb

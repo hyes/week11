@@ -1,0 +1,5 @@
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\temptemp\bin\Debug\temptemp.exe
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\temptemp\bin\Debug\temptemp.pdb
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\temptemp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\temptemp\obj\x86\Debug\temptemp.exe
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\week11\temptemp\obj\x86\Debug\temptemp.pdb
